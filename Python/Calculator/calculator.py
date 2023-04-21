@@ -18,7 +18,7 @@ def Percentage(number1, number2):
 def Power(number1, number2):
     return int((m.pow(number1, number2)))
 
-
+print("Thanks to executing me")
 check = 1
 while check == 1:
     print("Welcome to world of calculator")
