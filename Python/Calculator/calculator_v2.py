@@ -18,7 +18,7 @@ def square(num):
 def cube(num):
     return num**3
 
-
+print("Thanks to executing me")
 check = 1
 while check == 1:
     print("Welcome to world of calculator")
