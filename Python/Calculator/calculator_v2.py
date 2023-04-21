@@ -12,11 +12,11 @@ def Multiply(number1, number2):
 def Divide(number1, number2):
     return number1/number2
 
-def Percentage(number1, number2):
-    return int((number1/number2) * 100)
+def square(num):
+    return num*num
 
-def Power(number1, number2):
-    return int((m.pow(number1, number2)))
+def cube(num):
+    return num**3
 
 print("Thanks to executing me")
 check = 1
