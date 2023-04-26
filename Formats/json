@@ -1,0 +1,39 @@
+[{
+  "name": "John Doe", "id": 123456,
+  "major": "Computer Science",  "classes": [    {
+      "title": "Programming I",      "instructor": "Dr. Smith",      "grade": "A"
+    },    {
+      "title": "Database Systems",      "instructor": "Dr. Johnson",
+      "grade": "B+"    }
+  ],  "minorProject" : null,
+  "isemailverified" : false,  "address": {
+    "street": "123 Main St",    "city": "Anytown",
+    "state": "CA",    "zip": "12345"
+  }
+},{
+  "name": "Harry",
+  "id": 567,
+  "major": "Computer Science",
+  "classes": [
+    {
+      "title": "Programming I",
+      "instructor": "Dr. Smith",
+      "grade": "A"
+    },
+    {
+      "title": "Database Systems",
+      "instructor": "Dr. Johnson",
+      "grade": "B+"
+    }
+  ],
+  "minorProject" : {
+    "subject":"python"
+  },
+  "isemailverified" : false,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  }
+}]

@@ -1,0 +1,16 @@
+<student>
+  <name>John Doe</name>
+  <id>123456</id>
+  <major>Computer Science</major>
+   <class>
+      <title>Database Systems</title>
+      <instructor>Dr. Johnson</instructor>
+      <grade>B+</grade>
+    </class>
+  <address>
+    <street>123 Main St</street>
+    <city>Anytown</city>
+    <state>CA</state>
+    <zip>12345</zip>
+  </address>
+</student>
