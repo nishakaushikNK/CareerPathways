@@ -13,7 +13,7 @@ def getdate():
     params = {
         "lat": 44.34,
         "lon": 10.99,
-        "appid": "356ebba58f9edb6a663e344d7fd81b43"
+        "appid": ""
     }
 
     response = requests.get(url, params=params)
